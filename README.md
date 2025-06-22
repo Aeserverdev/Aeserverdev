@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aeserverdev
+- 👋 Hi, I’m Renaldi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,5 +8,5 @@
 
 <!---
 Aeserverdev/Aeserverdev is a contact
-6281348722325
+628994840203
 --->
