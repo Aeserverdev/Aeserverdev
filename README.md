@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aero</h1>
+<h1 align="center">Hi there 👋, I'm Aeserverdev</h1>
 <h3 align="center">💻 Just a guy who codes cool things</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🌱 I'm learning:  
   `JavaScript` | `Lua (Roblox)` | `PHP` | `Firebase`
 - 📫 Reach me on:  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/namakamu)  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aeroofc)  
 - ⚡ Fun fact:  
   I can build full-stack websites with just a browser, Sheets, and my imagination.
 
@@ -66,5 +66,5 @@
 ---
 
 > “Keep it simple, make it smart, and always be debugging.”  
-> – Aero
+> – Aeserverdev
 
