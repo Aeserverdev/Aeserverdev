@@ -8,45 +8,47 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I'm currently working on:  
-  `💼 Web apps` | `🎮 Roblox games` | `📊 Google Sheets automation`
-- 🌱 I'm learning:  
-  `JavaScript` | `Lua (Roblox)` | `PHP` | `Firebase`
-- 📫 Reach me on:  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aeroofc)  
+- 🔭 Currently building:
+  - `💼 Web apps (PHP, JS)`
+  - `🎮 Roblox games (Lua)`
+  - `📊 Google Sheets automations`
+- 🌱 Learning:
+  - `JavaScript` | `Lua (Roblox)` | `PHP` | `Firebase`
+- 📫 Reach me:
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aeroofc)
 - ⚡ Fun fact:  
-  I can build full-stack websites with just a browser, Sheets, and my imagination.
+  I build full-stack apps with just a browser, Sheets, and pure imagination.
 
 ---
 
-### 🚀 My Tech Stack
+### 🚀 Tech Stack
 
 **Frontend**
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Backend & Automation**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-- ![Google Apps Script](https://img.shields.io/badge/-AppsScript-4285F4?logo=google&logoColor=white&style=flat)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/AppsScript-4285F4?style=flat&logo=google&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Game Dev**
-- ![Roblox](https://img.shields.io/badge/-Roblox-000000?logo=roblox&logoColor=white&style=flat)
-- ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 **Tools**
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aeserverdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aeserverdev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,11 +62,12 @@
 ---
 
 ### 🛰️ Currently working on...
-- 🚧 A climbing game in Roblox with AI, traps, leaderboard, and extreme weather.
-- 🔐 A Google Sheets + Telegram login system with localStorage & anti-bot.
+- 🧗 Roblox mountain climbing game:  
+  ⛰️ 2500m summit | ⚡ Extreme weather | 👻 AI ghosts | ☠️ Traps | 🏁 Leaderboard  
+- 🛡️ Login system with Google Sheets + Telegram:  
+  🔐 localStorage | 🔍 CAPTCHA | 🚫 Anti-bot
 
 ---
 
 > “Keep it simple, make it smart, and always be debugging.”  
-> – Aeserverdev
-
+> — *Aeserverdev*
